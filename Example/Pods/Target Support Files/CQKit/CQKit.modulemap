@@ -1,0 +1,6 @@
+framework module CQKit {
+  umbrella header "CQKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "CQKit",
+  "version": "0.1.0",
+  "summary": "A short description of CQKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/coder_qi/CQKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "coder_qi": "nianshiguang@126.com"
+  },
+  "source": {
+    "git": "https://github.com/coder_qi/CQKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "CQKit/Classes/**/*"
+}
