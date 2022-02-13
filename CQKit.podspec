@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CQKit'
-  s.version          = '0.1.0'
+  s.version          = '1.1.0'
   s.summary          = 'A short description of CQKit.'
 
 # This description is used to generate tags and improve search results.
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+  全人类共享
                        DESC
 
   s.homepage         = 'https://github.com/coder_qi/CQKit'
@@ -36,7 +36,9 @@ TODO: Add long description of the pod here.
   #   'CQKit' => ['CQKit/Assets/*.png']
   # }
 
-  # s.public_header_files = 'Pod/Classes/**/*.h'
+   s.public_header_files = [
+   'CQKit/Classes/Public/CQKit.h'
+   ]
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
 end

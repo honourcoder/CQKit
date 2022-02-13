@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "CQKit.h"
 
 FOUNDATION_EXPORT double CQKitVersionNumber;
 FOUNDATION_EXPORT const unsigned char CQKitVersionString[];
