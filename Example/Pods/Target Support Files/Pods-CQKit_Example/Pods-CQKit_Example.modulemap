@@ -1,6 +1,0 @@
-framework module Pods_CQKit_Example {
-  umbrella header "Pods-CQKit_Example-umbrella.h"
-
-  export *
-  module * { export * }
-}
